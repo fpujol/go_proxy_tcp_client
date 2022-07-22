@@ -7,7 +7,7 @@ to localhost:80 and get back the requests.
 
 ## How to check it
 
-You need to have something listening on port 80 like a nginx or something like so when you
+You need to have something listening on port 80 like a nginx or something like that, so when you
 visit a page with your navigator on http://localhost:8080 you should be forwarded to http://localhost:80. 
-Your localhost:80 represent the site locked by the firewall.
+Your localhost:80 represents the site locked by the firewall.
 
